@@ -1,3 +1,4 @@
-powershell.exe
--ExecutionPolicy Bypass
-pass
+Command, Sensitivity
+powershell.exe,1
+-ExecutionPolicy Bypass,2
+pass,2
