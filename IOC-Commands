@@ -3,3 +3,4 @@ Malicious Operations,-ExecutionPolicy Bypass
 Sensitive Information,password
 Obfuscated Command, P'a's's'w'o'r'd
 Malware,calc.exe
+Malware,C:\Windows\System32\win32calc.exe
