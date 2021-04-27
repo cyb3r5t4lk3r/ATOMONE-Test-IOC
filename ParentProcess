@@ -1,0 +1,3 @@
+ParentProcessName,ProcessName
+wininit.exe,services.exe
+wininit.exe,lsass.exe
