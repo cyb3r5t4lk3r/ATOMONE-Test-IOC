@@ -1,3 +1,5 @@
-powershell.exe
--ExecutionPolicy Bypass
-pass
+Malicious Operations,powershell.exe
+Malicious Operations,-ExecutionPolicy Bypass
+Sensitive Information,password
+Obfuscated Command, P'a's's'w'o'r'd
+Malware,calc.exe
